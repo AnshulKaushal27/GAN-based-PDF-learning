@@ -119,12 +119,11 @@ Histogram of Transformed NO₂ Variable (z)
 This plot shows the empirical distribution of the transformed variable 
 𝑧
 z obtained after applying the non-linear sinusoidal transformation to the NO₂ concentration values.
-![Histogram of Transformed NO₂ Variable (z)]
-(images/1.png)
+
+![Histogram of Transformed NO₂ Variable (z)](images/1.png)
 
 PDF Estimation of Transformed NO₂ using GAN
 
 This plot compares the probability density function learned by the GAN (estimated using KDE from generated samples) with the histogram of the real transformed samples.
 
-![PDF Estimation of Transformed NO₂ using GAN]
-(images/2.png)
+![PDF Estimation of Transformed NO₂ using GAN](images/2.png)
