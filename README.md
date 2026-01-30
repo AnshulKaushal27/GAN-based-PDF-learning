@@ -13,6 +13,9 @@ To learn an unknown probability density function of a transformed random variabl
 
 The GAN is trained only on samples of the transformed variable and the learned distribution is later visualized using Kernel Density Estimation (KDE).
 
+Value of a_r:0.5
+Value of b_r:0.3
+
 📊 Dataset Description
 
 Dataset: India Air Quality Dataset
